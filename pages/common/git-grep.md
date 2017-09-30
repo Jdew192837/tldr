@@ -1,4 +1,7 @@
 # Git Grep
+
+Git Grep: Look for specified patterns in the tracked files in the work tree
+
 + Searches for parts of strings in a directory
 
 `git grep 'something'`
